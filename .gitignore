@@ -1,0 +1,9 @@
+*.class
+*.pyc
+*.pyo
+.project
+.pydevproject
+.sass-cache/
+.idea/
+.DS_Store
+venv
